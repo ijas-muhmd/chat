@@ -1,0 +1,15 @@
+/* .messages {
+    display: flex;
+    flex-direction: column;
+  } */
+
+.mine {
+  text-align: right;
+  background-color: #dcf8c6; /* Light green background for sent messages */
+}
+
+.theirs {
+  text-align: left;
+  background-color: #ebebeb; /* Light grey background for received messages */
+}
+
